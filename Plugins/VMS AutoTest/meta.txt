@@ -1,0 +1,5 @@
+Name       = VMS AutoTest
+Version    = 1.0.0
+Requires   = VMS Groups
+Essentials = 21.1
+Credits    = KavXd

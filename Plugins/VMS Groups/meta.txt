@@ -1,0 +1,5 @@
+Name       = VMS Groups
+Version    = 1.0.0
+Requires   = Voltseon's Multiplayer Solution
+Essentials = 21.1
+Credits    = KavXd
